@@ -27,6 +27,8 @@ Por tal motivo, se eligió aplicar una clasificación supervisada con Máquinas 
 
 La base de datos de Debernardi y colaboradores (doi: 10.1371/journal.pmed.1003489.) cuenta con la edad (años), sexo, valores de los biomarcadores urinarios creatinina [mg/ml], LYVE1 [ng/ml], REG1B [ng/ml], y TFF1 [ng/ml] para pacientes en tres categorías de la variable diagnóstico: sanos, con alguna condición benigna, y con PDAC (adenocarcinoma pancreático ductal, el tipo de cáncer pancreático más recurrente). Los datos fueron generados en 4 centros de investigación. En este trabajo se decidió utilizar los datos de pacientes cuyo diagnóstico era “normal” (sanos) o “maligno” (PDAC), conformando una base de datos de 381 registros, y se utilizó la totalidad de los datos sin tener en cuenta su proveniencia. 
 
+Fuente original de los datos:
+https://doi.org/10.1371/journal.pmed.1003489.s009
 
 # Procesamiento de base de datos
 
